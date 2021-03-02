@@ -1,6 +1,5 @@
 ### Hi there I am Tanvi Verma👋 and I am coding passionate.
 
-Hello, my name is Tanvi Jadhav and I am a master's student at [Oregon State University](https://eecs.oregonstate.edu/) majoring in Computer Science. I am a full-stack software developer with three years of experience working as a Software Engineer at [eQ Technologic India Pvt. Ltd.](https://www.1eq.com/) My technology stack involves Java/J2EE, Spring, Maven, Hibernate, MySQL, javascript, Backbone.js, and, HTML/CSS/Bootstrap. Besides programming, I have an immense interest in music.
 
 
 <!--
@@ -13,6 +12,9 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything from C,C++,JAVA,androidSDK. I am trying my best to resolve your error.
 - 📫 How to reach me: https://www.linkedin.com/in/tanvi-verma-955134201/
+
+Hello, my name is Tanvi Jadhav and I am a master's student at [Oregon State University](https://eecs.oregonstate.edu/) majoring in Computer Science. I am a full-stack software developer with three years of experience working as a Software Engineer at [eQ Technologic India Pvt. Ltd.](https://www.1eq.com/) My technology stack involves Java/J2EE, Spring, Maven, Hibernate, MySQL, javascript, Backbone.js, and, HTML/CSS/Bootstrap. Besides programming, I have an immense interest in music.
+
 
 
 **Languages and Tools:** 
