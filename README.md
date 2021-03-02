@@ -1,6 +1,8 @@
-[![Header](https://raw.githubusercontent.com/tanviverma/tanviverma/master/profile.gif)](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
+
 
 ### Hi there 👋, I am Tanvi Verma and I am passionate towards coding world! 😁
+
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <!--
 **rusty-sj/rusty-sj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -16,7 +18,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Statistics
 - 👯 I’m looking to collaborate on ...
 -->
-
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 Hello, my name is Tanvi verma and I am a B.tech student at [APJ.Abdul Kalam Technical University] majoring in Computer Science. I am a full-stack software developer. I have done training on Android SDK, JAVA.  My technology stack involves Java/J2EE, Spring, Maven, Hibernate, MySQL, javascript,android SDK, Firebase  and, HTML/CSS/Bootstrap. Besides programming, I have an immense interest in music.
 
 - 💻 I’m currently working on my Competitive Programming skills
@@ -25,6 +27,12 @@ Hello, my name is Tanvi verma and I am a B.tech student at [APJ.Abdul Kalam Tech
 - 📫 How to reach me: https://www.linkedin.com/in/tanvi-verma-955134201/
 - 💬 Ask me about any problem in C,C++,Java and android. I promise i will try my best to resolve your error. 
 - 😄 Pronouns: Programmer/She/Her/Hers
+
+
+[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+
 
 
 **Languages and Tools:** 
@@ -67,4 +75,5 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <code><a href="https://ubuntu.com/"><img alt="Ubuntu" title="Ubuntu" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" height="42"></a></code>
 
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
