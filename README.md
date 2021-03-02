@@ -29,9 +29,9 @@ Hello, my name is Tanvi verma and I am a B.tech student at [APJ.Abdul Kalam Tech
 - 😄 Pronouns: Programmer/She/Her/Hers
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-[![Twitter: Tanvi Verma](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/Tanviverma)
-[![Linkedin: Tanvi verma](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanvi-verma-955134201/)](https://www.linkedin.com/in/tanvi-verma-955134201/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![Twitter: Tanvi Verma](https://img.shields.io/twitter/follow/Tanvi Verma?style=social)](https://twitter.com/Tanviverma)
+[![Linkedin: Tanvi verma](https://img.shields.io/badge/-Tanvi Verma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanvi-verma-955134201/)](https://www.linkedin.com/in/tanvi-verma-955134201/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/tanvi2508?label=follow&style=social)](https://github.com/tanvi2508)
 
 
 
