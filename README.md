@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning advance JAVA
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything from C,C++,JAVA,androidSDK. I am trying my best to resolve your error.
-- 📫 How to reach me: https://www.linkedin.com/in/tanvi-verma-955134201/,
+- 📫 How to reach me: https://www.linkedin.com/in/tanvi-verma-955134201/
 
 
 **Languages and Tools:** 
