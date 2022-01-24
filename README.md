@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanvi Verma</h1>
 <h3 align="center">A passionate Android developer.</h3>
-<iframe src="https://giphy.com/embed/1MSVKRopegDjYONwdF" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/shecodesio-swipe-up-computer-congratulations-1MSVKRopegDjYONwdF">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/1MSVKRopegDjYONwdF/giphy.gif" width="50">
 <p><em>Android Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvi2508&label=Profile%20views&color=0e75b6&style=flat" alt="tanvi2508" /> </p>
