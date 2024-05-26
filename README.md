@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanvi Verma</h1>
-<h3 align="center">A passionate Android developer.</h3>
+<h3 align="center">A passionate Mobile App Developer.</h3>
 <img align='right' src="https://media.giphy.com/media/1MSVKRopegDjYONwdF/giphy.gif" width="230">
 <p><em>Android Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
