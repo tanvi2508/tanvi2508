@@ -5,13 +5,6 @@
 
 ---
 
-<h1 align="center">Hey there 👋, I'm Tanvi Verma</h1>
-<h3 align="center">✨ Crafting Ideas into Mobile Experiences | Flutter & Android Developer ✨</h3>
-
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
----
-
 ### 🚀 About Me
 🌟 Passionate about turning **innovative ideas** into seamless mobile apps.  
 💡 I blend **creativity + code** to build solutions that actually help people.  
@@ -22,9 +15,6 @@
 - 👯 Open to collaborations on **Mobile + Full Stack Projects**  
 - 💬 Ask me about **Flutter, Android, Java, Kotlin, Python, Firebase**  
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/tanvi-verma-955134201/)  
-
----
- 
 
 ---
 
